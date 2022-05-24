@@ -47,6 +47,7 @@ body{
 a > li:hover{
     transform: scale(1.1);
     transition:  .4s ease-in-out;
+    color: #f79045;
 }
 ul > li {
     justify-content: space-between;
