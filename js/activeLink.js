@@ -1,3 +1,5 @@
+import $ from 'jquery'
+
 $( document ).ready(function() {
     $('.about-me').click(function(){
         $("li").eq(0).removeClass("active");
